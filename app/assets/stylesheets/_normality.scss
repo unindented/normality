@@ -1,0 +1,80 @@
+/* =============================================================================
+   HTML5 display definitions
+   ========================================================================== */
+
+@import "normality/html5/blocks";
+@import "normality/html5/inline-blocks";
+@import "normality/html5/audio";
+@import "normality/html5/hidden";
+
+
+/* =============================================================================
+   Base
+   ========================================================================== */
+
+@import "normality/base/html";
+@import "normality/base/body";
+
+
+/* =============================================================================
+   Links
+   ========================================================================== */
+
+@import "normality/links/fix-background";
+@import "normality/links/fix-outline";
+
+
+/* =============================================================================
+   Typography
+   ========================================================================== */
+
+@import "normality/typography/headings";
+@import "normality/typography/abbr";
+@import "normality/typography/fix-bolder";
+@import "normality/typography/dfn";
+@import "normality/typography/hr";
+@import "normality/typography/mark";
+@import "normality/typography/fix-monospace";
+@import "normality/typography/pre";
+@import "normality/typography/q";
+@import "normality/typography/small";
+@import "normality/typography/sub-and-sup";
+
+
+/* =============================================================================
+   Embedded content
+   ========================================================================== */
+
+@import "normality/embed/img";
+@import "normality/embed/svg";
+
+
+/* =============================================================================
+   Figures
+   ========================================================================== */
+
+@import "normality/figures/figure";
+
+
+/* =============================================================================
+   Forms
+   ========================================================================== */
+
+@import "normality/forms/fieldset";
+@import "normality/forms/legend";
+@import "normality/forms/fix-font";
+@import "normality/forms/fix-text-transform";
+@import "normality/forms/fix-line-height";
+@import "normality/forms/buttons";
+@import "normality/forms/disabled";
+@import "normality/forms/checkbox-and-radio";
+@import "normality/forms/search";
+@import "normality/forms/fix-focus-inner";
+@import "normality/forms/textarea";
+
+
+/* =============================================================================
+   Tables
+   ========================================================================== */
+
+@import "normality/tables/fix-cell-spacing";
