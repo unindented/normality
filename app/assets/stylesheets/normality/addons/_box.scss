@@ -2,7 +2,7 @@
  * Apply border box to all elements.
  */
 
-* {
+*, hr, input[type="search"] {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
