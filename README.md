@@ -3,7 +3,7 @@
 Include [normalize.css](https://necolas.github.io/normalize.css/) functionality in your Rails app using SASS/SCSS.
 
 
-## Install for Rails 3.1+
+## Install for Rails 4.0+
 
 In your `Gemfile`, add `sass-rails` (if you don't have it already) and `normality`:
 
