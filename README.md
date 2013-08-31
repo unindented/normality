@@ -1,4 +1,4 @@
-# Normality
+# Normality [![Build Status](https://secure.travis-ci.org/unindented/normality.png)](http://travis-ci.org/unindented/normality) [![Dependency Status](https://gemnasium.com/unindented/normality.png)](https://gemnasium.com/unindented/normality)
 
 Include [normalize.css](https://necolas.github.io/normalize.css/) functionality in your Rails app using SASS/SCSS.
 
