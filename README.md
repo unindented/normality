@@ -1,4 +1,4 @@
-# Normality [![Version](https://img.shields.io/gem/v/normality.svg)](https://rubygems.org/gems/normality) [![Build Status](https://img.shields.io/travis/unindented/normality.svg)](http://travis-ci.org/unindented/normality) [![Dependency Status](https://img.shields.io/gemnasium/unindented/normality.svg)](https://gemnasium.com/unindented/normality) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
+# Normality [![Version](https://img.shields.io/gem/v/normality.svg)](https://rubygems.org/gems/normality) [![Build Status](https://img.shields.io/travis/unindented/normality.svg)](http://travis-ci.org/unindented/normality) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Include [normalize.css](https://necolas.github.io/normalize.css/) functionality in your Rails app using SASS/SCSS.
 
